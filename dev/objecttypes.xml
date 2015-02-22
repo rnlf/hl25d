@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="headcrab" color="#ff0004"/>
+ <objecttype name="barnacle" color="#8f0002"/>
+ <objecttype name="firstaid" color="#00ff7f"/>
+ <objecttype name="crate" color="#a46909"/>
+ <objecttype name="battery" color="#6da45c"/>
+ <objecttype name="player" color="#4a69a4"/>
+ <objecttype name="scientist" color="#ffee00"/>
+ <objecttype name="recharger" color="#6ea45c"/>
+ <objecttype name="button" color="#98ccff"/>
+</objecttypes>

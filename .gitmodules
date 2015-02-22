@@ -1,0 +1,15 @@
+[submodule "lume"]
+	path = lume
+	url = https://github.com/rxi/lume.git
+[submodule "flux"]
+	path = flux
+	url = https://github.com/rxi/flux.git
+[submodule "lovebird"]
+	path = lovebird
+	url = https://github.com/rxi/lovebird.git
+[submodule "classic"]
+	path = classic
+	url = https://github.com/rxi/classic.git
+[submodule "lust"]
+	path = lust
+	url = https://bitbucket.org/rnlf/lust.git
