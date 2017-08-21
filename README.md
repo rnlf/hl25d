@@ -1,5 +1,7 @@
 # hl25d
 
+![Ingame GIF](https://github.com/rnlf/hl25d/raw/master/hevroom.gif)
+
 HL2.5d is the beginning of a raycasted first person shooter.
 rxi and I began work on it during MiniLD 50 in March 2014. The raycaster itself is working quite nicely
 by now, but there is not much content yet.
